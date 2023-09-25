@@ -4,6 +4,10 @@
 /public/hot
 /public/storage
 /public/vendor/statamic
+/public/css
+/public/js
+/public/img
+mix-manifest.json
 /storage/*.key
 /vendor
 .env
