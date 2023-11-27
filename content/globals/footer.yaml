@@ -6,35 +6,49 @@ data:
       content:
         -
           type: text
-          text: 'Copyright © 2023 Blogo. All rights reserved.'
+          text: "Copyright © 2023 Jigar's Blog. All rights reserved."
     -
       type: paragraph
       content:
         -
           type: text
-          text: 'Made by '
+          text: 'Made with ♥️ by '
         -
           type: text
           marks:
             -
               type: link
               attrs:
-                href: 'https://github.com/afan417'
-                rel: noopener
-                target: _blank
-                title: null
-          text: 'Afan Ajdari'
-        -
-          type: text
-          text: ' · '
-        -
-          type: text
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://github.com/afan417/blogo-starter-kit'
+                href: 'https://twitter.com/jigar_dhulla'
                 rel: null
                 target: _blank
                 title: null
-          text: Github
+          text: Jigar
+        -
+          type: text
+          text: ' using '
+        -
+          type: text
+          marks:
+            -
+              type: link
+              attrs:
+                href: 'https://statamic.com/'
+                rel: null
+                target: null
+                title: null
+          text: Statamic
+        -
+          type: text
+          text: ' and '
+        -
+          type: text
+          marks:
+            -
+              type: link
+              attrs:
+                href: 'https://statamic.com/starter-kits/afan-ajdari/blogo'
+                rel: null
+                target: null
+                title: null
+          text: Blogo

@@ -1,4 +1,6 @@
 title: Settings
 data:
-  site_name: Jigar's Blog
-  meta_description: 'Lorem reprehenderit proident irure. Dolore ipsum aliqua mollit ad officia fugiat sit eu aliquip cupidatat ipsum duis laborum laborum fugiat esse.'
+  logo: jigar_updated-bg-(1).png
+  site_name: "Jigar's Blog"
+  meta_description: 'Personal blog of Jigar Dhulla - Sharing thoughts on PHP, Laravel, Livewire and Docker'
+  og_image: jigar_updated-bg-(1).png
