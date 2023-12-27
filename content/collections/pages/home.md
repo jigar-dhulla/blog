@@ -4,21 +4,18 @@ blueprint: pages
 title: Home
 template: home
 updated_by: 5019d32a-932e-4e80-9d30-b60b20e24e87
-updated_at: 1696443778
+updated_at: 1703668968
 blocks:
   -
-    id: ljj7lhk3
-    featured_post: eb23df51-c742-4029-b78b-4994337e270f
+    id: lqnki35s
+    featured_post: af34a078-b3a8-4ce9-9197-532af48d1b58
+    background_color: '#ac906d'
     type: featured_post
     enabled: true
-    background_color: '#000000'
   -
-    id: ljjwxa54
-    featured_posts:
-      - 92f664b5-bb83-4bb4-94c0-adc915db3ca0
-      - cbdca493-761c-4bd9-aa3d-0930f7cd9f3b
-    type: featured_posts
-    enabled: false
+    id: lqnkh2by
+    type: all_posts
+    enabled: true
 show_title: false
 ---
 ## Welcome to your brand new Statamic site!
