@@ -4,12 +4,12 @@ blueprint: pages
 title: Home
 template: home
 updated_by: 5019d32a-932e-4e80-9d30-b60b20e24e87
-updated_at: 1703668968
+updated_at: 1703743550
 blocks:
   -
-    id: lqnki35s
+    id: lqosshuf
     featured_post: af34a078-b3a8-4ce9-9197-532af48d1b58
-    background_color: '#ac906d'
+    background_color: '#010536'
     type: featured_post
     enabled: true
   -
